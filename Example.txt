@@ -1,0 +1,24 @@
+
+class A{
+	private ali(){
+
+int a;
+
+int b = 10;
+
+while(a+b){
+a = a + b; 
+b++;
+}
+
+}
+
+}
+
+public class id {
+	public static void main(){
+
+a = a+b;
+
+}
+}
